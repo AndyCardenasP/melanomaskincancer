@@ -2,7 +2,7 @@
 #include <opencv2/opencv.hpp>
 #include <math.h>
 #include <vector>
-#include "assimetry.h"
+#include "tresh.h"
 
 using namespace std;
 using namespace cv;
